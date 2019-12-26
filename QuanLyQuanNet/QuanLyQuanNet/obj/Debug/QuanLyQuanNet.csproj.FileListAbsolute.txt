@@ -1,0 +1,26 @@
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe.config
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csprojResolveAssemblyReference.cache
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.Cache
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.exe
+c:\users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.pdb
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fDangNhap.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fQuanLy.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fTinhTien.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fQuanLyThongKe.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fAbout.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe.config
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.exe
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\bin\Debug\QuanLyQuanNet.pdb
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fAbout.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fDangNhap.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fQuanLy.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fQuanLyThongKe.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.fTinhTien.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.Properties.Resources.resources
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csproj.GenerateResource.cache
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.exe
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.pdb
+F:\ky nghe phan mem\KyNghePhanMem-Nhom7\TL7 - Cài đặt\Source code\QuanLyQuanNet\QuanLyQuanNet\obj\Debug\QuanLyQuanNet.csprojResolveAssemblyReference.cache

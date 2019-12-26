@@ -1,0 +1,13 @@
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\bin\Release\QuanLyQuanNet.exe.config
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\bin\Release\QuanLyQuanNet.exe
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\bin\Release\QuanLyQuanNet.pdb
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.csprojResolveAssemblyReference.cache
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.fAbout.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.fDangNhap.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.fQuanLy.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.fQuanLyThongKe.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.fTinhTien.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.Properties.Resources.resources
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.csproj.GenerateResource.Cache
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.exe
+C:\Users\ltk19\documents\visual studio 2015\Projects\QuanLyQuanNet\QuanLyQuanNet\obj\Release\QuanLyQuanNet.pdb
